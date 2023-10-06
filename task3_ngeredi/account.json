@@ -1,0 +1,8 @@
+{
+    "type": "BankAccount",
+    "data": {
+        "account_owner": "Dianne",
+        "balance": 5000,
+        "account_number": 144444
+    }
+}
